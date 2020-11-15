@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ugadai_Slepenchuk</string>
+
+    <string name="behind">Мало!</string>
+    <string name="ahead">Много!</string>
+    <string name="hit">Угадал!</string>
+    <string name="try_to_guess">Попробуйте угадать число от (1 &#8211; 100)</string>
+    <string name="error">Неверный ввод</string>
+
+    <string name="imput_value">Ввести значение</string>
+    <string name="play_more">Сыграть еще?</string>
+</resources>
